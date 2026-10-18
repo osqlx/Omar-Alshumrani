@@ -2,26 +2,27 @@
 
 ### 🚀 About Me
 
-I am a Computer Science student specializing in **Artificial Intelligence**.
-My philosophy is simple: **"Work Smarter, Not Harder."**
+I'm a Computer Science student focusing on **Artificial Intelligence**, still early in my journey.
+I'm building my foundations step by step, and I'd rather understand *why* something works than just copy it.
 
-I dive deep into **Data Structures, Algorithms, and Mathematics** for one reason: to build efficient systems that solve problems correctly the first time, so I don't have to fix them later. I prefer writing smart, concise code over long, repetitive work.
+### 📚 What I'm Learning
 
-### 🛠 Tech Stack
+- **Python:** writing basic data structures (stack, queue) from scratch.
+- **Data Structures & Algorithms:** the core of my current studies.
+- **AI & Machine Learning:** the fundamentals, and the math behind them.
+- **Data Analysis & Visualization:** analyzing a real dataset in a team assignment.
+- **UI Design:** designing mobile app screens in **Figma** (beginner).
+- **Cybersecurity:** just getting started.
 
-- **Languages:** **Python** (my go-to for getting things done fast), SQL.
-- **Core Focus:** Automating tasks, Algorithm Optimization, and Clean Code.
-- **Foundations:** I rely on strong Math skills (Calculus/Linear Algebra) to create intelligent solutions rather than brute-forcing them.
+### 🛠 Projects
 
-### 🔭 Currently Working On
-
-- Developing efficient algorithms to handle complex data with minimal effort.
-- Mastering the mathematical concepts behind AI to understand how the "magic" works.
+- **NuttyCraft:** a team course project, a mobile app for a nuts store where users build their own custom mix. Designed in Figma.
+- **Caffeine Lab:** a coffee shop mobile app, designed in Figma as a team lab.
 
 ### ⚡ Fun Fact
 
-I enjoy **Speedcubing** (Rubik's Cube). It taught me that there is always a shorter, faster algorithm to reach the solution—and that's how I approach coding.
+I enjoy **Speedcubing** (Rubik's Cube). Getting faster is all about learning the right algorithms and practicing them, which isn't so different from learning to code.
 
 ### 🤝 Let's Connect
 
-If you appreciate efficient code and practical AI solutions, let's have a chat.
+I'm always happy to connect with other students and learners.
